@@ -1,0 +1,36 @@
+{
+  "auth": [
+    {
+      "id": "1",
+      "email": "ivanov@gmail.com",
+      "password": "test"
+    },
+    {
+      "id": "2",
+      "email": "eugen@gmail.com",
+      "password": "test2"
+    },
+    {
+      "id": "3",
+      "email": "petrov@gmail.com",
+      "password": "test3"
+    }
+  ],
+  "users": [
+    {
+      "id": "1",
+      "fullname": "Василий Иванов",
+      "email": "ivanov@gmail.com"
+    },
+    {
+      "id": "2",
+      "fullname": "Евгений Трифонович",
+      "email": "eugen@gmail.com"
+    },
+    {
+      "id": "3",
+      "fullname": "Владимир Петров",
+      "email": "petrov@gmail.com"
+    }
+  ]
+}
